@@ -15,10 +15,7 @@ author: Greg
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "greghenry.xyz"
 
 # --- Logo --- #
 
@@ -43,7 +40,7 @@ social-network-links:
   facebook: HYGregg
   github: GregoireHENRY
   twitter: gregoirehy
-  youtube: c/UCTrR1M-ZWMPDtRxtYV6tJJg
+  youtube: channel/UCTrR1M-ZWMPDtRxtYV6tJJg
   linkedin: grégoire-henry
   stackoverflow: "13173987/greg"
   instagram: greg.henry
